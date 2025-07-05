@@ -110,7 +110,16 @@ Ensure you have a compatible video input (clear side view of bowler).
 | 17            | -0.43      | 179.54         | 263.47           | 180.65         | 178.04           | 155.34           | 147.76            | 120.26            | 189.44             | 2.9    |
 
 
+
+![time_series_clustering_dtw_with_pearson](https://github.com/user-attachments/assets/d489bd45-183f-439c-84ae-14033ae2e269)
+
+![time_series_clustering_right_arm_angle_with_pearson](https://github.com/user-attachments/assets/f7e96480-b8da-4aeb-be85-6287a1412cdd)
+
+![time_series_clustering_Speed_with_pearson](https://github.com/user-attachments/assets/84e9a835-ade4-4f6c-8cae-f26d10a29de1)
+
+
 ## Notes
+
 
 - Video must clearly capture the bowler's side profile.
 - Designed primarily for **right-arm bowlers**, can be adapted for left-arm bowlers with minor changes.
