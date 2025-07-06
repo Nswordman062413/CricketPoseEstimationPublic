@@ -6,7 +6,7 @@ This project focuses on analyzing bowling technique from a **side-view video** u
 
 - Pose landmark extraction with **MediaPipe**
 - Angle calculation between key joints (e.g., shoulder, elbow, wrist, leg)
-- Linear wrist speed tracking during bowling motion
+- Right Linear wrist speed tracking during bowling motion
 - CSV export of angle and motion data
 - Designed for **side-on camera perspective**
 - Visualizations and Pandas-based data manipulation
