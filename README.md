@@ -31,7 +31,19 @@ This project focuses on analyzing bowling technique from a **side-view video** u
 - tslearn
 - Jupyter Notebook
 
----
+## Package Versions
+
+- cv2 (OpenCV): 4.10.0
+- mediapipe: 0.10.18
+- numpy: 1.26.4
+- pandas: 2.2.2
+- matplotlib: 3.8.4
+- scipy: 1.13.1
+- scikit-learn: 1.4.2
+- tslearn: 0.6.3
+- os: built-in
+- csv: built-in
+- glob: built-in
 
 ## Getting Started
 
