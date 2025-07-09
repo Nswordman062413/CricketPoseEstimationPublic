@@ -59,6 +59,30 @@ Open **.ipynb in Jupyter Lab**:
 
 Ensure you have a compatible video input (clear side view of bowler).
 
+Virtual Environment:
+
+Install
+
+```bash
+make install
+```
+Activate
+
+```bash
+make activate
+```
+
+Run
+
+```bash
+make run
+```
+
+Clean
+
+```bash
+make clean
+```
 ---
 
 ### How It Works
